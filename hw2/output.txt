@@ -35,7 +35,7 @@ movie		Xi yang jing
 company		Giant Industries Inc.
 movie		Taivas tiellä
 drug		PMS-Docusate Sodium 44
-person		Lucy Lawless
+movie		Lucy Lawless
 place		Novartis
 person		George Atwood
 movie		Faites comme si je n'étais pas là
@@ -60,7 +60,7 @@ drug		Rulox No. 2
 person		Mark L. Polansky
 company		Ltc Pptys Inc
 movie		Leg Up
-movie		Broncomar GG
+person		Broncomar GG
 movie		Plugged In
 person		St. Martin I
 company		FINL SEC ASSURN HLDGS LTD
@@ -76,16 +76,16 @@ drug		Calmine
 movie		Girls! Girls! Girls!
 movie		René de Sluze
 drug		Tim-AK
-drug		Pro Skater 2
+movie		Pro Skater 2
 drug		Rancid Aluminium
 company		Harsco Corporation.
 drug		Trocal
-movie		Suhl
+place		Suhl
 place		Revesby
 drug		Clinagen LA 40
 person		Althea Gibson
 person		Patricia Cornwell
-person		Robalog
+place		Robalog
 person		Erich Hecke
 place		Oadby
 drug		Triaminic-DM Cough Relief 118
@@ -93,31 +93,31 @@ place		Pembrey
 person		Edwin G. Krebs
 company		Rouse Company
 person		Andrew Bonar Law
-person		Lawrence Melm
-person		Kiri Maori
-drug		Susumu Tonegaw
+movie		Lawrence Melm
+movie		Kiri Maori
+movie		Susumu Tonegaw
 movie		The Runaway
-person		Um Dia na Vida
+movie		Um Dia na Vida
 movie		The Tao of Steve
 person		Ediger
 drug		Vicks DayQuil Sinus Pressure and Congestion Relief Caplets 141
 company		Nfo Worldwide Inc.
-drug		Meruvax II
+person		Meruvax II
 company		Motivepower Industries Inc.
 drug		Dimetapp DM 21
 place		Upper Bucklebury
-person		César
+place		César
 place		Novgorod
 drug		Vicks Children's NyQuil Cold/Cough Relief 33
-person		Tom Sawyer
-movie		Melchior Broederlam
+movie		Tom Sawyer
+person		Melchior Broederlam
 company		CNA Surety Corporation
 drug		Aludrox
-movie		Telefónica del Perú SA
+company		Telefónica del Perú SA
 company		Comfort Systems USA Inc.
 movie		Prison of the Dead
 person		Estee Lauder
-movie		Chipping
+place		Chipping
 drug		Actifed Cold & Sinus Caplets 26
 company		Circuit City Stores Inc.
 movie		Provera Pak
@@ -131,8 +131,8 @@ drug		Roxilox
 movie		Marriage Acts
 drug		Blocadren 14
 place		Lochearnhead
-movie		Gross-Gerau
-movie		Colestid
+place		Gross-Gerau
+place		Colestid
 movie		Class of Nuke 'Em High IV
 movie		Murmansk
 drug		Sustacal Basic
@@ -148,14 +148,14 @@ place		Grange-over-Sands
 drug		Ocusporin
 person		Cutar Water Dispersible Emollient Tar
 drug		Nu-Cephalex 19
-person		Ruth Moufang
+movie		Ruth Moufang
 movie		Tre anni
 company		CB Richard Ellis Services Inc.
-movie		Liquaemin
+place		Liquaemin
 drug		Danocrine
 person		Jan van Eyck
 movie		Suzhou he
-movie		Constulose 13
+drug		Constulose 13
 movie		Luftpiraten - 113 Passagiere in Todesangst
 drug		Apo-Dimenhydrinate
 company		Transcontinental Realty Investors Inc.
@@ -169,24 +169,24 @@ movie		Arrest & Trial
 company		Nations Balanced Target Maturity Fund, Inc.
 drug		Desenex Antifungal Penetrating Foam
 place		Blister
-movie		Joyeux Noël, Rachid
+person		Joyeux Noël, Rachid
 movie		Oundle
 person		Pius XII
 place		Ballymena
 movie		Flight of the Reindeer
 drug		Scot-Tussin Senior Clear 109
-drug		Cillium
+place		Cillium
 drug		Proloprim
 person		Gregory IX
 person		With Closed Eyes
 drug		Nalda-Relief Pediatric Drops 14
-drug		Dunblane
+place		Dunblane
 movie		Fetish Fanatics #14: Girls Who Were Porn's 1st Superstars
 movie		Lyme disease vaccine
-person		René Thom
+movie		René Thom
 drug		Disobrom 19
-place		Neoral
-person		Rumaysa bint Milhan
+drug		Neoral
+movie		Rumaysa bint Milhan
 place		Sham
 movie		Virtuoso
 company		The Latin American Discovery Fund, Inc.
@@ -194,7 +194,7 @@ movie		The Dark Years
 place		Newport-on-Tay
 drug		Anaprox 13
 movie		John and Yoko's Year of Peace
-person		Best Foods
+movie		Best Foods
 person		Alexis M. Herman
 movie		The Summer of the Kavalcutes
 place		Derry
@@ -202,7 +202,7 @@ movie		Pansion za kucheta
 movie		KLM Royal Dutch Airlines.
 drug		Zyrtec
 drug		L-PAM
-person		St. Paul Companies
+company		St. Paul Companies
 place		Cher
 drug		Klean-Prep
 movie		Bondi Junction
@@ -210,7 +210,7 @@ drug		AMMONIATED MERCURY
 movie		Mamotte agetai
 movie		No Place to Go
 company		Computer Task Group, Incorporated
-person		Benoit Mandelbrot
+movie		Benoit Mandelbrot
 place		Colyte
 drug		Novoxapam 14
 company		Mid Atlanta Medical Services Inc.
@@ -236,10 +236,10 @@ place		Rotherwick
 drug		Alramucil Regular
 person		Sir James Jeans
 company		FDX Corporation.
-drug		Pyri
+movie		Pyri
 place		North Baddesley
 movie		Famvir
-person		Numero Bruno
+movie		Numero Bruno
 drug		Benadryl Allergy 10
 drug		Caroline Chisholm
 person		John of Holywood
@@ -272,7 +272,7 @@ drug		Fisimatenten
 drug		Trilafon Concentrate
 person		John Mccausland
 drug		Spectrobid
-person		Narberth
+place		Narberth
 company		Meristar Hotels & Resorts, Inc.
 drug		PMS Benztropine
 company		National Golf Properties Inc.
@@ -285,13 +285,13 @@ drug		Mydriacyl
 drug		Dapacin Cold
 movie		Ren jian si yue tian
 drug		Regular Iletin II
-drug		D.C.
+movie		D.C.
 drug		Banophen 10
 person		Lafanmi Selavi
 movie		Inventario balcanico
 company		Partnerre Ltd
 company		Blount International Inc.
-person		Pieni pyhiinvaellus
+movie		Pieni pyhiinvaellus
 company		Rightchoice Managed Care Inc.
 person		Francesco Cantelli
 company		Crane Co.
@@ -301,48 +301,48 @@ movie		Hij & Julia
 person		Richard W. Riley
 drug		Novolin ge 30/70 10
 movie		Fatboy Slim and Macy Gray: Demons
-drug		Condom
+place		Condom
 movie		Es geht nicht immer nur um Sex
 place		Uttara
 movie		K+ Care ET
 company		AMPCO Pittsburgh Corporation
-person		Mylanta Gas
-movie		Dubbel-åttan
+movie		Mylanta Gas
+place		Dubbel-åttan
 movie		Grind Session
-movie		Ein Lasterhaftes Pärchen
+person		Ein Lasterhaftes Pärchen
 movie		Nyons
 drug		Promacot
 place		Algajola
-place		Battery Park
+movie		Battery Park
 drug		Naldecon Pediatric Drops 14
 drug		Myotrol
 person		St. Andrews
 movie		Jack in the Box Inc.
 drug		Nestrex
-person		Zhukovsky
+place		Zhukovsky
 movie		After the Reconciliation
 place		Bzz
 person		Gerhard Domagk
-company		SAP AG
+drug		SAP AG
 company		Gabelli Equity Tr Inc
 movie		Nutty Professor II: The Klumps
 movie		Booty Talk 20: Super Fine Sistas!
-person		Os Acrobatas da Pedra Rolada
+movie		Os Acrobatas da Pedra Rolada
 drug		Valertest No. 1
 place		Houilles
 place		New Haw
 movie		The Cave
 movie		Paschal II
-drug		Phillips' Chewable 26
+movie		Phillips' Chewable 26
 movie		Blue End
 person		Lena Horne
 person		Robert Pilatus
 person		Dada Sahib
 drug		Humatrope
 place		Wickford
-movie		Occidente
+drug		Occidente
 movie		Indépendance Cha Cha
-person		Wilder Days
+movie		Wilder Days
 movie		Lily and the Secret Planting
 drug		Key-Pred SP
 company		Dal Tile International Inc.
@@ -351,7 +351,7 @@ place		Cookham
 movie		Real Rakeovers
 movie		Mounted by the Gods
 company		Pakistan Investment Fund, Inc.
-person		Boris
+movie		Boris
 place		Stolberg
 company		Omnicom Group Inc.
 movie		Behind Closed Doors: The Dark Legacy of the Johns Committee
@@ -362,8 +362,8 @@ movie		Diástole y sístole
 person		Mount Vincent
 person		Richard R. Ernst
 drug		Pavarine
-movie		Gammar-P IV
-movie		Sonntags
+drug		Gammar-P IV
+place		Sonntags
 movie		Rupert Steckil: Genesis of a Filmmaker
 drug		Hydergine LC
 person		Billy Hamilton
@@ -371,17 +371,17 @@ company		Lexington Corporate Properties Trust
 drug		OptiPranolol
 person		Howard Stern
 place		Zeeland
-drug		Advil
+place		Advil
 person		Mr. Hughes
 drug		Amcort
 movie		Achter gesloten ogen
-person		Piers Bohl
+movie		Piers Bohl
 place		Halfweg
 movie		The Opponent
 place		Moosh
 drug		Theocon
 movie		The Future of War
-movie		Snapped
+place		Snapped
 place		Huntly
 person		Yulian-Karl Sokhotsky
 drug		Canesten 3-Day Therapy
@@ -400,48 +400,48 @@ movie		The Child and the Soldier
 drug		Novo-Pirocam 16
 movie		007 Racing
 drug		Quadramet
-drug		CyberCrime
+place		CyberCrime
 drug		Xerac BP 5
 person		Sir Christopher Wren
 movie		Beyond the Ocean
 drug		Etrafon-F
 movie		Buttman's Anal Divas
 drug		Sorbitrate
-drug		Driver 2
-movie		Monongahela Pwr Co
+movie		Driver 2
+person		Monongahela Pwr Co
 drug		Pediacof Cough 69
 company		Minerals Technologies Inc.
 drug		Florone
 movie		There's Something About Jack 11
 drug		Apo-Metformin
 company		DTE Energy Co.
-company		Intron A
+drug		Intron A
 drug		Adriamycin RDF
 company		Devry, Inc.
 movie		Exeter
 drug		Codehist DH 32
-person		Bunnik
+place		Bunnik
 person		Charles Dodgson
-movie		Market Drayton
+place		Market Drayton
 company		John Hancock Patriot Global Dividend Fund
-person		Global Domination
+movie		Global Domination
 movie		Dalmane
-drug		Roniacol
-drug		Benzacot
+place		Roniacol
+place		Benzacot
 place		Westhumble
-person		Marrying Out
+movie		Marrying Out
 movie		Urmel 2: Faule Tricks auf hoher See
 place		Brighouse
 movie		Private Vignettes #1
 movie		Attention Shoppers
-person		Penny Okamoto
+movie		Penny Okamoto
 person		Charles Reyneau
-movie		In Flagrante
+drug		In Flagrante
 drug		Botox
 drug		Contac Cold/Flu Day Caplets 124
 movie		Love at First Sight
 person		Giovanni Vacca
-place		Talbot Green
+movie		Talbot Green
 drug		EZE-DS
 movie		Donna Leon - Vendetta
 company		Mercury General Corporation.
@@ -462,26 +462,26 @@ drug		Theo-Time
 drug		Hyzine-50 12
 movie		Le Chapeau
 company		Beckman Coulter Inc
-movie		Fources
+place		Fources
 movie		Moral Court
-drug		Dural
+place		Dural
 movie		The Black Meteor
 drug		Ceo-Two
 movie		An Extremely Goofy Movie
 movie		The Sopornos
-drug		Enfamil Human Milk Fortifier
+person		Enfamil Human Milk Fortifier
 movie		Raped by an Angel 5: The Final Judgement
 movie		Gerry Humphreys: The Loved One
 place		Kingsteignton
 place		Lancaster
-person		Otto Szász
+movie		Otto Szász
 person		Harikomi
-movie		Joe Mcginnity
+person		Joe Mcginnity
 company		Fansteel Inc.
 drug		Dosaflex 35
 person		Stanislaw M. Ulam
 place		West Wickham
-drug		Univasc
+movie		Univasc
 movie		Blessed Innocent XI
 drug		Mithracin
 movie		Say You Love Satan
@@ -497,8 +497,8 @@ drug		Tylenol Cold Multi-Symptom 58
 place		Tarka
 movie		Mission: Impossible II
 company		Vlasic Foods International Inc.
-drug		Nystop
-drug		9-Ball
+place		Nystop
+place		9-Ball
 person		Florence Sabin
 movie		Abercrombie & Fitch
 person		Arthur Lakes
@@ -510,7 +510,7 @@ movie		Pokémon: Vol. 18: Water Blast
 movie		Adventures in Wild California
 place		Kineton
 place		Lelystad
-person		Deus Jr.
+movie		Deus Jr.
 drug		Humulin R
 person		Giulio Natta
 drug		Otocidin
@@ -533,7 +533,7 @@ person		Vaughan Jones
 drug		Apo-Clonazepam
 company		Leggett & Platt Inc.
 place		Bagshot
-drug		Phones
+movie		Phones
 movie		Traveling Miles: Cassandra Wilson
 movie		Mega Man X5
 person		Edward I
@@ -550,12 +550,12 @@ person		Hans Heilbronn
 place		Empedocles
 movie		Gespräch im Gebirg
 movie		Slow Fe
-drug		Kefzol
+place		Kefzol
 movie		Margaret Mead
-person		Socieda Quimica Min De Chile
+movie		Socieda Quimica Min De Chile
 movie		An Unkindness of Ravens
 company		Equities Office Properties Trust
-movie		Life Force
+drug		Life Force
 drug		Hydro-chlor
 company		American Home Prods Corp
 company		Berkshire Hathaway Inc
@@ -564,17 +564,17 @@ drug		Titralac Plus 21
 company		Atwood Oceanics Inc.
 movie		Dogme # 16 - Bad Actors
 movie		Tout est calme
-person		Hitler Meets Christ
+movie		Hitler Meets Christ
 drug		Isopap
 movie		Rocco: Animal Trainer 3
 drug		Oxyderm 20 Lotion
 place		Driebergen
 person		Howard Martin Temin
-drug		Vancenase
+place		Vancenase
 drug		FDS
 place		Bombshell
 movie		Façade
-movie		Arvokkaasti
+place		Arvokkaasti
 place		Vauvert
 place		Durham
 place		Bollington
@@ -591,23 +591,23 @@ person		Gustav Hertz
 movie		Latin Heat Inn Exile
 company		EIX Trust
 place		Harwich
-movie		Nowra
+place		Nowra
 person		Hassan II
 company		Ceridian Corporation
 movie		What About Me: The Rise of the Nihilist Spasm Band
-drug		Lucky 13
+movie		Lucky 13
 person		St. Thomas Aquinas
 movie		Die Einsamkeit der Krokodile
 drug		Prednicot
 drug		Cefzil 13
 drug		Der Boxprinz
-drug		Orfro
+place		Orfro
 person		Clothesline Patch
-movie		Agnico-Eagle Mines Limited
+drug		Agnico-Eagle Mines Limited
 movie		Savage Garden: Superstars and Cannonballs: Live and on Tour in Australia
 drug		Prodrox
 drug		Resyl
-drug		Goffs Oak
+movie		Goffs Oak
 drug		Cabin Fever
 person		Alessandro Volta
 place		Rochdale
@@ -620,14 +620,14 @@ movie		Behind the Scenes: Road to El Dorado
 company		Energen Corporation
 movie		Home VDO
 company		Newfield Exploration Co.
-drug		Val-Thorens
+place		Val-Thorens
 company		May Department Stores Co.
 person		Pierre Hérigone
 movie		Les Yeux fermés
 person		Robert Coffin
 person		Bonnie J. Dunbar
 person		Frederick Soddy
-person		Albert Docusate 44
+drug		Albert Docusate 44
 person		Martin Lawrence
 drug		Dexafed Cough 126
 drug		Sopamycetin Ophthalmic Ointment
@@ -635,32 +635,32 @@ place		D'alembert
 person		Kristie Hendrickson
 drug		Norphadrine
 movie		Enfoirés en 2000
-drug		Athene
+place		Athene
 place		Newbridge on Wye
-company		Scotts Co
+movie		Scotts Co
 company		Battle Mountain Gold Co.
 movie		'N Sync: Live From Madison Square Garden
 person		Samuil Shatunovsky
 place		Butzbach
 person		Eddie Arcaro
 drug		Ceftin 18
-drug		Chloromag
+place		Chloromag
 movie		Fifteen Minutes
 movie		Asociación Argentina de actores
-company		Blue Square-Israel Ltd
+movie		Blue Square-Israel Ltd
 movie		Autsch, du Fröhliche
 drug		Beta-HC
 movie		Os Três Zuretas
 drug		Effer-K
-drug		Anak
+place		Anak
 movie		Groupe Danone
 person		Dragonriders of Pern
 person		Thomson of Arnhem Land
-drug		Sebucare
+movie		Sebucare
 company		United Park City Mines Co..
 place		Redfern
 company		Coastalcast Corporation
-place		Port Kembla
+person		Port Kembla
 movie		Open Return
 drug		Dioeze 44
 movie		La Laïque
@@ -687,11 +687,11 @@ person		Jim Bottomley
 place		Krajinka
 person		Campanus of Novara
 place		Wittstock
-place		Yaroslav Lopatynsky
+person		Yaroslav Lopatynsky
 drug		Rescon-ED 15
 movie		Time of our Lives
 company		Nippon Telegraph and Telephone Corp.
-person		Gustav Stresemann
+movie		Gustav Stresemann
 company		Tefron Ltd.
 drug		Flonase
 drug		Tinactin Jock Itch Cream
@@ -700,17 +700,17 @@ drug		Genpril Caplets
 person		Archer John Porter Martin
 drug		DDAVP Nasal Spray
 drug		Eflone
-drug		Aviature
+movie		Aviature
 person		Georgii Pfeiffer
 person		Konrad Knopp
 movie		The Substitute: Failure Is Not an Option
 person		Clement III
 movie		True Hollywood Stories: Billionaire Boys Club
 movie		Survival of the Fattest
-drug		Arthrisin
+person		Arthrisin
 movie		Dalziel and Pascoe: Cunning Old Fox
 drug		Propa pH Medicated Cleansing Pads Maximum Strength
-person		Thabit ibn Qays
+movie		Thabit ibn Qays
 place		Sézanne
 place		Turrella
 movie		Hånden på hjertet
@@ -737,9 +737,9 @@ place		Whitchurch (Hamp.)
 drug		Monopril
 person		Thomas Ward Custer
 drug		Tussafed 23
-movie		Rituxan
-drug		Perm
-movie		Inséparables
+drug		Rituxan
+place		Perm
+place		Inséparables
 person		Johann Bernoulli
 drug		Spectro-Caine
 movie		King Kelly
@@ -766,7 +766,7 @@ movie		Tempting Fate
 movie		Better Than Sex
 place		Bette
 drug		Aspirin Plus Stomach Guard Extra Strength
-movie		Copene-Petroquímica do Nordeste
+drug		Copene-Petroquímica do Nordeste
 place		Larkhall
 person		Benjamin Waterhouse Hawkins
 drug		UAA
@@ -777,7 +777,7 @@ movie		The Gods of Times Square
 company		Bairnco Corporation
 drug		Staticin
 company		Weddell & Reed Financial Inc
-drug		Predair A
+movie		Predair A
 place		Galahad
 person		Milch und Honig aus Rotfront
 movie		Leçons de ténèbres
@@ -801,9 +801,9 @@ movie		Spec Ops: Stealth Patrol
 place		Pattensen
 movie		Drainiac!
 drug		Mestinon
-drug		Cogolin
+place		Cogolin
 place		Coolongolook
-person		Lacrisert
+place		Lacrisert
 drug		Monistat 3
 company		Asia Pacific Wire & Cable
 person		Josef Goebbels
@@ -821,22 +821,22 @@ person		Oleksandr Sharkovsky
 person		Keith Stewartson
 movie		The Tattoo
 movie		The Mystery of the Romanovs
-drug		Lithotabs
+place		Lithotabs
 movie		Bella Block - Schuld und Liebe
-person		Men of Honor
-company		Tristan & Isolde
+movie		Men of Honor
+drug		Tristan & Isolde
 drug		Gen-Clonazepam
 movie		God's Army
-drug		Wendy O.williams
+movie		Wendy O.williams
 place		Downpour
 place		Roadblocks
 movie		The Last Musketeer
 drug		Triposed 28
 movie		The Passage
-person		Fritzlar
+place		Fritzlar
 place		Sweet
 movie		Santana: Supernatural Live
-place		Dromore
+movie		Dromore
 movie		Live Free or Die
 movie		Quotation Marks
 drug		Dialose Plus 42
@@ -844,7 +844,7 @@ movie		Baby Blues
 place		Miltown
 drug		NPH Iletin II
 drug		Urocit-K
-movie		Vallery
+place		Vallery
 person		Colonel Mary A. Hallaren
 drug		LAM
 movie		Når mørket er forbi
@@ -852,7 +852,7 @@ company		Ssbh Cap I
 person		Joseph Doob
 drug		Nia-Bid
 place		Upminster
-place		Carnoux-en-Provence
+drug		Carnoux-en-Provence
 movie		Most Promising Young Actress
 place		Limpsfield
 movie		Twice the Fun
@@ -881,7 +881,7 @@ drug		Storz-Dexa
 movie		Highway Melody
 place		Flovent
 drug		Sintrom
-drug		Marinol
+place		Marinol
 movie		La Precisione del caso
 drug		Uro-Ves
 place		Rowasa
@@ -896,7 +896,7 @@ movie		Margaret: The Last Real Princess
 place		Challacombe
 company		Nuveen California Select Quality Municipal Fund
 drug		ERYC-250
-movie		Justice Rehnquist
+person		Justice Rehnquist
 company		Household Cap Tr I
 movie		Washed Up
 drug		Pseudo-Car DM 23
@@ -904,13 +904,13 @@ place		Clouet
 drug		Nu-Cimet
 drug		Duoplant Topical Solution
 movie		Dr Lucille - Un rêve pour la vie
-drug		Minipress
+movie		Minipress
 drug		Bufferin Caplets
 company		Indiana Energy Inc.
 place		Millevaches
 place		Saint-Denis
 company		Vintage Petroleum Inc.
-movie		Das Schlosshotel
+person		Das Schlosshotel
 company		Medical Assurance Inc.
 place		Hechingen
 movie		Ordeals of Love on the Great Lakes
@@ -933,7 +933,7 @@ place		Heathfield (Devon)
 drug		Pepto-Bismol
 person		Vampires of Sorority Row Part II
 drug		Empirin with Codeine No.3
-company		My African Diary
+movie		My African Diary
 company		The Great-wesr Life Assurance Company
 company		South Jersey Industries Inc.
 person		Nasir Khwaja
@@ -956,30 +956,30 @@ person		Francis Galton
 drug		Stri-Dex Regular Strength Pads
 drug		Poly D 23
 person		Richard Yates
-drug		OFF! Skintastic For Kids
-drug		Best
+movie		OFF! Skintastic For Kids
+place		Best
 place		St. Zosimus
 movie		Le Giraffe
 company		Wmc Ltd
 company		Trinity Industries Inc.
-company		A Hora Marcada
+movie		A Hora Marcada
 place		Weiden
-drug		Cytovene
+place		Cytovene
 movie		Could Be Worse!
 place		Hotellet
 person		Thomas Edward Lawrence
 place		Lochem
 movie		Ein Palast und seine Republik
 drug		Kwelcof Liquid 112
-movie		Diarrest
+place		Diarrest
 drug		Bontril Slow-Release
 movie		The Optimists
 place		Baden-Wuerttemberg
 place		Libya
-movie		Kahin Pyaar Na Ho Jaaye
+person		Kahin Pyaar Na Ho Jaaye
 movie		In the Wings
-movie		El Irrigador
-movie		Stadskanaal
+person		El Irrigador
+place		Stadskanaal
 movie		Seule avec la guerre
 place		Myanmar
 movie		Spotlight on George Takei
@@ -995,7 +995,7 @@ movie		Divertimento
 movie		Mabrouk Again
 movie		Blues mrtvého muze
 person		David Bomberg
-person		Zacharie Astruc
+movie		Zacharie Astruc
 movie		Der Millionär und die Stripperin
 drug		Comtrex Allergy-Sinus Caplets 13
 drug		Lanophyllin
@@ -1005,19 +1005,19 @@ movie		Brokeback Mountain
 company		Santander Overseas Bank, Inc.
 person		Andrew Johnson
 drug		Peptavlon
-drug		Ipol
+place		Ipol
 movie		Sting: The Brand New Day Tour - Live from the Universal Amphitheatre
 movie		Andel Exit
 drug		Next Friday
-drug		Doak Oil Therapeutic Bath Treatment For All-Over Body Care
+person		Doak Oil Therapeutic Bath Treatment For All-Over Body Care
 drug		Theo-24
 person		Giuseppe Bruno
 person		Albrecht Kossel
 drug		Fire-Eater
 drug		Nu-Diltiaz
-movie		Just an Ordinary Day
+person		Just an Ordinary Day
 person		John Wilson
-place		Faygate
+movie		Faygate
 drug		Touro LA Caplets 142
 place		Believe
 person		George Canning
@@ -1031,7 +1031,7 @@ place		Bopfingen
 place		Belfield
 company		Scudder Multi-Market Income Trust
 drug		Spasmophen
-movie		Pettson och Findus - Kattonauten
+person		Pettson och Findus - Kattonauten
 place		Peepers
 movie		Beastie Boys: Video Anthology
 movie		Paolo Ruffini
@@ -1044,13 +1044,13 @@ movie		Selvsvings Bånd på livet - livet på bånd
 person		Alvin "Red" Tyler
 movie		This Is How the World Ends
 person		Miller Huggins
-movie		Thiopentone
+place		Thiopentone
 place		Hawarden
 movie		Djomeh
-drug		Luminal
+place		Luminal
 place		Wentworth
-person		Sidney Bechet
-drug		Mygel II
+movie		Sidney Bechet
+person		Mygel II
 movie		O Fato
 movie		La bloc oamenii mor dupa muzica
 drug		Hilcote
@@ -1058,7 +1058,7 @@ person		Jörn Donner
 company		Columbus Southern Power Co.
 person		Julio Rey Pastor
 place		Warners Bay
-drug		Visken 11
+movie		Visken 11
 drug		Hawaiian Tropic Sport Sunblock 28 29
 person		Luis Aparicio
 person		Georgii Polozii
@@ -1083,7 +1083,7 @@ person		James M. Kelly
 movie		Myciguent
 drug		Comtrex Daytime Caplets 124
 movie		Ningen no kuzu
-person		Don't Kill
+movie		Don't Kill
 place		Cherry Hills
 movie		The Last Buckaroo
 company		Cigna Investment Securities, Inc.
@@ -1099,7 +1099,7 @@ person		Richard M. Linnehan
 movie		The Comedian
 person		Aphrodyne
 movie		The Dave Saint Show
-drug		Virazole
+place		Virazole
 movie		Furamide
 movie		Dancing at the Blue Iguana
 company		Mascotech Inc.
@@ -1111,12 +1111,12 @@ movie		Gajes del oficio
 place		Auvillar
 drug		Sulfair 15
 drug		Robitussin with Codeine 15
-person		Dhai Akshar Prem Ke
+movie		Dhai Akshar Prem Ke
 movie		Coverack
 movie		A Festa de Margarette
 movie		VH-1 to One: The Corrs
 place		Aberdare
-place		Baruj Benacerraf
+person		Baruj Benacerraf
 drug		Pepcid I.V.
 movie		Teletubbies: Nursery Rhymes
 company		Telemig Celular Participações S.A.
@@ -1124,7 +1124,7 @@ drug		Antacid Liquid Double Strength
 drug		Nord-Pas-de-Calais
 drug		Doak Oil Forte Therapeutic Bath Treatment
 company		Caterpillar Inc.
-drug		Kathryn Flanagan
+person		Kathryn Flanagan
 company		Homestake Mining Co.
 company		American Retirement Corp.
 movie		Barking Dogs Never Bite
@@ -1138,10 +1138,10 @@ drug		Apo-Bisacodyl 26
 drug		Maximum Strength SnapBack Stimulant Powders
 movie		The War Behind the Wire
 person		Rolf M. Zinkernagel
-drug		Trinidad and Tobago
+movie		Trinidad and Tobago
 drug		Humulin-N
 movie		Chasing the Big Ones 3
-movie		Dodewaard
+place		Dodewaard
 movie		Si fa presto a dire amore...
 company		Mmi Products Inc.
 place		Husborne Crawley
@@ -1150,8 +1150,8 @@ drug		Celestine II
 person		Alfred Werner
 drug		Urex
 drug		Oxy Night Watch Night Time Acne Medication Extra Strength Lotion
-movie		T.R.A.X.
-place		Vent de colère
+drug		T.R.A.X.
+movie		Vent de colère
 company		Boulder Total Return Fund Incorporated
 company		Dan River Inc.
 drug		Cee-500
@@ -1160,7 +1160,7 @@ place		Kunwara
 movie		Kleistoi dromoi
 place		Lorraine
 company		Harris Corporation.
-drug		Yocavil
+place		Yocavil
 movie		Frank Herbert's Dune
 person		Charles Brianchon
 drug		Ogen 1.25
@@ -1170,7 +1170,7 @@ company		Manpower Inc.
 person		Edward V
 drug		Palafer
 company		Time Warner Capital I
-movie		Enter
+place		Enter
 drug		ANTIVENIN
 movie		Mysterious Object at Noon
 drug		Sleep-Eze D 10
@@ -1179,10 +1179,10 @@ place		Peebles
 person		Alan L. Bean
 movie		D-dag - Instruktørene
 movie		Initiations 2
-place		Llanfyllin
+drug		Llanfyllin
 person		Christopher Clavius
 movie		Shadow of the Blair Witch
-person		Atle Selberg
+movie		Atle Selberg
 drug		DermaZinc Cream
 movie		Sideways
 person		Detroit Edison
@@ -1200,9 +1200,9 @@ drug		Dialose 44
 company		National Australia Bank Ltd.
 place		Dewsbury
 drug		Peptol
-person		Bud Freeman
+movie		Bud Freeman
 movie		Now or Never
-movie		24fps
+drug		24fps
 drug		Hydrocodone with APAP
 drug		Ocu-Tropine
 person		George Darwin
@@ -1223,46 +1223,46 @@ drug		Bromfenex
 drug		Polycitra-K
 movie		Charge!
 place		Reims
-person		Jimmy Smits
+movie		Jimmy Smits
 person		Benedict I
-drug		Deconhist
+movie		Deconhist
 drug		Trans-Ver-Sal
 drug		Gentle Laxative 26
 place		Lemmer
 movie		Shovite
-person		Word of Honor
+movie		Word of Honor
 drug		Isocal
 movie		Lewd Conduct 9
 drug		Riopan 23
 movie		Kadian
 person		Jean Richer
 drug		Norethin 1/50M
-drug		Travel Daze
+movie		Travel Daze
 drug		A-200 Shampoo Concentrate
-drug		Lydd
+place		Lydd
 person		Larry King
 movie		Jojo la frite
-drug		Orbenin
+place		Orbenin
 drug		Team Spirit
 drug		Desquam-X 5 Gel
 movie		The Gang
 drug		Depacon
 person		John Leech
-company		Bay View Capital I
-company		Swisscom Ag
+movie		Bay View Capital I
+movie		Swisscom Ag
 person		John M. Chivington
 person		Carl Gustaf Verner Von Heidenstam
 movie		Versel Lotion
 movie		Polizeiruf 110 - Bruderliebe
 drug		Prelu-2
 movie		Donald Duck Goin' Quackers
-company		Unreal Ads
-drug		Epicentre
+movie		Unreal Ads
+movie		Epicentre
 place		Camperdown
 movie		Harem of Madame Osmane
-movie		Margaret Sanger
-movie		Kintore
-movie		DiabetiSource
+person		Margaret Sanger
+place		Kintore
+drug		DiabetiSource
 drug		Gyne-Lotrimin
 movie		Les Belles histoires des Pays-d'en-Haut
 person		Sir John Warcup Cornforth
@@ -1271,18 +1271,18 @@ drug		Ornex No Drowsiness Caplets
 company		Plc Cap Tr I
 movie		Oliver i Olivera
 movie		Dogwoman: Dead Dog Walking
-place		Menunggu pelangi
+movie		Menunggu pelangi
 place		Todmorden
 company		Packaging Corporation Of America
 movie		Pleasure Point
-movie		Strijen
-place		Fajardo
+place		Strijen
+movie		Fajardo
 movie		Pressyn
 company		Metals Usa, Inc.
 drug		Neo-Calglucon
 movie		Down to You
 place		Swaffham Bulbeck
-person		Leviathan Gas Pipeline Partners L.P
+company		Leviathan Gas Pipeline Partners L.P
 company		Texas Utils Co
 movie		Chi chung sze loi liu
 movie		Fedl Home Ln Mtg
@@ -1295,16 +1295,16 @@ movie		Wonder Boys
 person		Bruce Willis
 drug		Sensorcaine Forte
 drug		Statex Drops
-company		O Delfim
+movie		O Delfim
 company		Policy Management Systems Corporation.
 place		Montrouge
-movie		Apollo
+place		Apollo
 movie		The Genocide Factor
 movie		Laughter in the Dark
 drug		Tussogest 117
 person		Gertrude Rainey
 place		Rainham (Greater London)
-person		Anna en Corse
+movie		Anna en Corse
 drug		Staphcillin
 place		Margaret Burbridge
 company		The Germany Fund, Inc.
@@ -1316,16 +1316,16 @@ drug		Apo-Indomethacin
 place		Hercules
 movie		Rebus: The Hanging Garden
 person		Richard C. Holbrooke
-movie		Jarrett & Labonte Stock Car Racing
+person		Jarrett & Labonte Stock Car Racing
 drug		Diocto 44
 drug		Menaval-20
 place		Glaucon
 company		Pure Resources, Inc.
-drug		Alkets 18
+movie		Alkets 18
 drug		Benzfetamine
 person		Elton John
 company		Colonial Investment Grade Municipal Trust
-person		Adeodatus
+movie		Adeodatus
 movie		Anatomy of Disgust
 movie		Westward Ho!
 movie		Hot Latin Pussy Adventures 7
@@ -1337,31 +1337,31 @@ person		Lewis Strauss
 drug		Arthrotec 75
 drug		Os-Cal 500 Chewable
 place		Wallasey
-movie		Lian zhan chongsheng
+person		Lian zhan chongsheng
 movie		Páratlan
 drug		Relafen 12
-drug		Nyngan
+place		Nyngan
 person		Josif Shtokalo
-drug		Detector
+movie		Detector
 company		Correctional Properties Trust.
 movie		Un Colpo al cuore
-movie		Caribbean Undercover
+person		Caribbean Undercover
 person		Carroll J. Guillory
 drug		Astracaine 4% Forte
 drug		Novotriptyn
 place		Pewsey
 drug		Bronalide
-place		Indifference
+movie		Indifference
 drug		Olavi Paavolainen
 company		Van Kampen High Income Trust II
 movie		Opening the Tombs of the Golden Mummies: Live
 place		Heidenheim
 movie		The Film Biker
-place		Yemen
-movie		Cambodia
+movie		Yemen
+place		Cambodia
 person		Ellen S. Baker
 company		Animated Corpse
-drug		Lacril
+place		Lacril
 drug		Paludrine
 person		Boniface II
 movie		Intimate Portrait: Janis Joplin
@@ -1380,7 +1380,7 @@ person		Edward III
 drug		Dimetapp Chewables
 drug		Cortisol
 place		Misstoestanden
-movie		Gesté
+place		Gesté
 drug		Tristatin II
 person		Charlotte Scott
 movie		Unauthorized Brady Bunch: The Final Days
@@ -1392,15 +1392,15 @@ person		George Washington
 movie		Komédiások
 place		Bishopton
 movie		Persian Series #6
-drug		Mali
+place		Mali
 company		Kinder Morgan Energy Partners L.P
 movie		The Way of the Birds
 place		Robinul
 company		Smith Charles E Residential Realty Inc.
 company		Gucci Group N V
-person		Il Cielo cade
+movie		Il Cielo cade
 place		Hawick
-drug		Bucet
+place		Bucet
 person		Genevieve M. Knight
 movie		Amor, curiosidad, Prozac y dudas
 movie		To the End of the Road
@@ -1409,21 +1409,21 @@ company		Kimberly Clark Corp
 place		Window
 drug		Arthritis Strength Bufferin
 movie		The Heart's Root
-movie		Wild Bill Hickok
+person		Wild Bill Hickok
 drug		Lotrimin AF Cream
 drug		Cort-Dome
 company		The Blackrock Insured Municipal 2008 Term Trust Inc.
 place		Wadhurst
 place		Crowthorne
 movie		Welcome to New York
-movie		BWP2
+drug		BWP2
 movie		Quand j'étais petit
 movie		The Moving of Sophia Myles
 movie		De Stilte...
 drug		Pedvaxhib
 movie		Acts of Worship
 drug		Actisite
-place		Tales of an Island
+movie		Tales of an Island
 company		Pitney Bowes Inc
 drug		Bisacolax 26
 company		Healthcare Rlty Tr
@@ -1431,12 +1431,12 @@ drug		Epival
 drug		Threamine DM 31
 person		Tobey Maguire
 person		Hugh Duffy
-movie		In Appartment Buildings People Are Crazy About Music
-company		Oronce Fine
+company		In Appartment Buildings People Are Crazy About Music
+movie		Oronce Fine
 person		Ladislaus Bortkiewicz
 drug		Maltsupex
 movie		Florence Court
-movie		Nellie Bly
+person		Nellie Bly
 place		Llanrug
 place		Obernai
 drug		Skelex
@@ -1483,12 +1483,12 @@ person		Daniel M. Tani
 drug		Pedialyte Freezer Pops
 place		Uithoorn
 drug		Requip
-movie		Vies
+place		Vies
 company		Prospect Street High Income Portfolio Inc.
 drug		Duralone-80
 movie		Russia's Wonder Children
 drug		Sprang-Capelle
-drug		Ligne 208
+movie		Ligne 208
 person		Candice Bergen
 drug		Ornade Expectorant 95
 drug		Top Tens
@@ -1503,7 +1503,7 @@ movie		Severo Ochoa
 place		Westerham
 movie		Ein Mensch wie Dieter - Golzower
 company		American Municipal Term Trust Inc.
-company		BRADY CORP
+drug		BRADY CORP
 place		PennEngineering
 drug		Glucotrol
 place		Montmorency
@@ -1539,17 +1539,17 @@ drug		AeroBid-M
 place		Turbulence
 movie		Tribute to Alfred Lepetit
 movie		Stranger with a Camera
-movie		Daybreak
-drug		Zerit
+place		Daybreak
+place		Zerit
 place		Kingsford
 movie		Un enfant, un secret
-person		Mia Farrow
+movie		Mia Farrow
 movie		Star Wars: Episode I - Jedi Power Battles
 person		Our Journey
 movie		Yung wong jik chin
 person		Luigi Grandi
 drug		Gravol I/V
-movie		Nessundorma
+place		Nessundorma
 place		Blood
 drug		Colorado
 person		George Bernard Shaw
@@ -1558,7 +1558,7 @@ movie		Frankie Goes to Hollywood: Hard On
 drug		Os-Cal
 person		Charles Pears
 movie		Spinning Gasing
-person		Corris
+place		Corris
 place		Southwark
 movie		Les Autres filles
 drug		Ethyl aminobenzoate
@@ -1571,8 +1571,8 @@ movie		Legacy of a Kidnapping: Lindbergh and the Triumph of the Tabloids
 person		Wilhelm Wirtinger
 movie		Riesa
 place		Liechtenstein
-place		Thales of Miletus
-drug		Sens
+movie		Thales of Miletus
+place		Sens
 movie		Steps to the Stars
 person		Friedrich Schottky
 drug		Sal-Acid Plaster
@@ -1581,8 +1581,8 @@ drug		Ibu-200
 movie		Tommaso Boggio
 drug		Alti-Triazolam 18
 drug		405
-drug		Amazon
-movie		SensoGARD Canker Sore Relief
+place		Amazon
+person		SensoGARD Canker Sore Relief
 movie		IIFA Awards
 movie		Ajax: De film
 place		Claye-Souilly
@@ -1590,15 +1590,15 @@ movie		Die Nacht der Engel
 drug		Nalfed-PD
 place		Barakah
 movie		Prescot
-drug		Novolin ge Lente
+movie		Novolin ge Lente
 place		Travemünde
 movie		The Leatherwoman
-drug		Russo
+place		Russo
 person		Fred W. Haise
 company		UnumProvident Corporation
 movie		Extremism Breaks My Balls
 company		Katy Inds Inc
-movie		Serenades
+place		Serenades
 company		Alberto Culver Co.
 drug		Nu-Ampi
 company		Noble Affiliates Inc.
@@ -1608,11 +1608,11 @@ drug		D-S-S 44
 person		Charles E. Brady, Jr.
 drug		Nasatab LA 142
 place		Glengormley
-movie		Cursed
+place		Cursed
 place		Kurosufaiâ
 movie		Song of the Sea Otter
 movie		Lázaro de Tormes
-movie		Tomsk
+place		Tomsk
 movie		The John Report with Bob
 place		Sockbridge
 drug		Neo-Synephrine
@@ -1623,8 +1623,8 @@ company		Nuveen New York Quality Income Municipal Fund
 movie		Headache Tablet
 place		Niebüll
 movie		Siostry
-drug		Seom
-movie		Solomon Islands
+movie		Seom
+place		Solomon Islands
 place		Woodchester
 place		Crowhurst
 drug		Oralone
@@ -1633,29 +1633,29 @@ movie		The Child
 movie		The Weight of Water
 movie		Sidney Poitier, One Bright Light
 movie		Cashier Wants to Go to the Seaside
-movie		Freising
+place		Freising
 person		Dr. Dean Ornish
-movie		Brethine
+place		Brethine
 person		Alfred Hermann Fried
 place		Haberfield
 place		Rejseholdet
 movie		Balsall Common
-place		Shipston on Stour
-movie		Rosamunde Pilcher - Zerrissene Herzen
+movie		Shipston on Stour
+person		Rosamunde Pilcher - Zerrissene Herzen
 place		Spean Bridge
 movie		Dear America: A Line in the Sand
 person		William Butler Yeats
 drug		Norinyl 1+50
-movie		Rhodia
+place		Rhodia
 place		Herakles
 movie		The Etiquette Man
 drug		Dormarex 2 10
 company		Capital Re LLC
 person		Michael P. Anderson
-drug		Statuss Green 39
+movie		Statuss Green 39
 drug		Tussi-Organidin NR Liquid 106
 company		Eog Resources Incorporated
-company		Stieg Trenter
+movie		Stieg Trenter
 movie		Happy Birthday
 person		David H. Hubel
 drug		Guaifenex PPA 75 141
@@ -1665,14 +1665,14 @@ company		American Finl Cap Tr I
 movie		Kate Kirby
 drug		Topicaine
 place		Willingham
-person		Jarrow
+place		Jarrow
 drug		Exgest LA 141
 company		White Mount Ins Grp Ltd Berm
 place		Pontefract
 drug		Gynol II Extra Strength Contraceptive Jelly
 drug		Desenex Powder
 drug		Senna-Gen 35
-drug		Moban
+place		Moban
 company		Unisys Corp
 person		George Foster
 drug		Dolgesic
@@ -1681,13 +1681,13 @@ movie		Divided We Fall
 company		Terra Industries Inc.
 person		Matthew B. Ridgway
 person		Leonard Wood
-drug		Testred
+movie		Testred
 company		San Paolo-Imi S P A
 drug		Cold & Cough Medicine TheraFlu Maximum Strength Non-Drowsy Formula Flu124
 place		Ahlen
 company		Goodrich Petroleum Corporation
 drug		Norgesic Forte
-place		Blackwater
+movie		Blackwater
 movie		Les Soeurs Lumière
 company		Moore Corporation Ltd
 person		Plain Love III
@@ -1701,14 +1701,14 @@ drug		Antacid Liquid
 person		Eddie Plank
 movie		La Moderna poesia
 company		Nuveen New York Select Quality Municipal Fund
-drug		Tavist
-drug		Phentercot
+place		Tavist
+place		Phentercot
 place		Moretonhampstead
 drug		Calamox
 movie		À ma soeur!
-drug		Buffon
+place		Buffon
 person		Jesse Owens
-movie		Ulysses Simpson Grant
+person		Ulysses Simpson Grant
 drug		Hydromox
 place		Tollesbury
 place		Salzhemmendorf
@@ -1737,15 +1737,15 @@ company		Tesoro Petroleum Corporation.
 place		Blackburn (Lancs.)
 place		Rylstone
 movie		Black Widow
-drug		Sharon Christa McAuliffe
-person		Cal Ripken, Jr.
+person		Sharon Christa McAuliffe
+movie		Cal Ripken, Jr.
 movie		Lies... In Love
 movie		Mandelieu la Napoule
 movie		Wilder Kaiser - Das Duell
 company		Seacor Smit Inc.
 drug		Propine
 movie		Miguel Angel Asturias
-place		South Stoke
+movie		South Stoke
 drug		TMO
 movie		On Grandma
 person		Ernest Miller Hemingway
@@ -1753,7 +1753,7 @@ drug		Apo-Terfenadine 15
 movie		Haboleshet Hokeret
 person		Sir Ronald Ross
 person		Willis Carrier
-person		David Spade
+drug		David Spade
 movie		Je werk of je leven: Hoe lang moet jij nog?
 company		Dril-Quip, Inc.
 person		Le Vélo de Ghislain Lambert
@@ -1788,14 +1788,14 @@ drug		Klotrix
 movie		Posledná vecera
 person		Mario Andretti
 drug		Procardia XL
-company		Wendys Fing I
+movie		Wendys Fing I
 place		Cremains
 place		Crawley
 drug		PreSun Moisturizing 49
 company		The Greater China Fund, Inc.
 drug		Suprefact
-movie		Chuck
-company		Mexico City
+place		Chuck
+movie		Mexico City
 drug		Genora 0.5/35
 movie		Bonhoeffer - Die letzte Stufe
 drug		Genatuss DM 109
@@ -1813,16 +1813,16 @@ person		K. Alexander Müller
 movie		Robert's Rescue
 place		Rosmalen
 person		All You Can Eat Pharmacy
-person		Knut Hamsun
+movie		Knut Hamsun
 person		Etienne Pascal
 person		Louis Vierne
 company		Theragenics Corporation.
 movie		3 Strikes
 movie		101 Rent Boys
 drug		Akne-Mycin
-place		Le Glandeur
+movie		Le Glandeur
 drug		Zephrex-LA 142
-drug		Usx Marathon Lg-Tm
+person		Usx Marathon Lg-Tm
 movie		The Calling
 movie		Ramlah bint Abi Sufyan
 movie		I Know I'll See Your Face Again
@@ -1830,7 +1830,7 @@ person		Hank Williams
 company		Flowers Industries Inc.
 place		Bungwahl
 place		Cheltenham
-drug		Naphill
+place		Naphill
 place		Hoo St. Werburgh
 movie		Diary of Lust
 movie		Das Herz eines Priesters
@@ -1840,7 +1840,7 @@ company		Edison International.
 place		Ratingen
 drug		VIRACEPT
 drug		Maximum Strength Gas Relief
-drug		Rat
+place		Rat
 movie		Free Fall
 person		Sir Hans Adolf Krebs
 drug		Gas-X Extra Strength
@@ -1853,7 +1853,7 @@ company		Winston Hotels, Inc.
 person		Ronald E. McNair
 drug		Dunstable
 person		David Lloyd George
-company		British Steel Plc
+person		British Steel Plc
 company		Wynns International Inc.
 drug		Ser-A-Gen
 drug		Halotussin-DM 109
@@ -1869,7 +1869,7 @@ movie		Maria da Lourdes Pintasilgo
 place		Little Haywood
 movie		Passage du milieu
 drug		Cidomycin
-movie		IGIV
+person		IGIV
 place		Thales
 place		Wooburn Green
 drug		Monistat 3 Dual-Pak
@@ -1878,14 +1878,14 @@ drug		Citro-Mag 14
 movie		Através da Janela
 person		Erwin Freundlich
 person		Edmund Kirby Smith
-person		Stjärnfall
+place		Stjärnfall
 movie		Pesärikko
 drug		D.O.S. Softgels 44
 place		Hans Reichenbach
 drug		Hydropres
 company		Templeton Emerging Markets Appreciation Fund, Inc.
 movie		Gegenseitiges Beobachten: Handy
-movie		Brottsvåg
+place		Brottsvåg
 person		Joan Cusack
 movie		Capitanes de abril
 drug		Novo-AZT
@@ -1894,13 +1894,13 @@ movie		Die Blutgräfin
 movie		Backyard Dogs
 drug		Nucochem Pediatric Expectorant 131
 person		Elias Canetti
-drug		Ru-Tuss
+place		Ru-Tuss
 movie		Elisas univers
 place		Gartocharn
 person		Joseph Saurin
 person		Bob Haggart
 drug		Phenazine 25
-movie		Criminal Instincts
+drug		Criminal Instincts
 drug		Dexamethasone Intensol
 movie		Catfish Hunter
 drug		Xylocaine-MPF
@@ -1920,7 +1920,7 @@ place		Budleigh Salterton
 place		Durrington
 place		Branston (Leicestershire)
 movie		Denby Dale
-drug		Tight-Ass Lowriders
+movie		Tight-Ass Lowriders
 movie		Code Unknown: Incomplete Tales of Several Journeys
 company		Lyondell Chemical Co.
 movie		Battlefield Earth: A Saga for the Year 3000
@@ -1928,17 +1928,17 @@ company		Northwest Natural Gas Company
 company		Engelhard Corporation
 movie		The Gas Station
 movie		Mi amigo
-person		Marton Taiga
+place		Marton Taiga
 drug		Dilocaine
 place		Vietnam
 movie		Requiem for a Dream
-company		AEGON N.V.
+drug		AEGON N.V.
 drug		Children's Formula Cough 109
 company		Federal Realty Investment Trust.
 drug		Ecostatin Vaginal Ovules
 movie		The Van Boys
 place		Sutton-on-Hull
-place		Cantamos contigo
+movie		Cantamos contigo
 place		Faversham
 place		Bavandar
 place		Ristningar
@@ -1955,7 +1955,7 @@ movie		Garimpeiros
 drug		Brotane DX Cough 22
 person		Battle Mtn Gold Co
 movie		Here on Earth
-drug		Tmavomoudrý svet
+movie		Tmavomoudrý svet
 movie		Dragon Ball Z: The Movie - The World's Strongest
 movie		Nova: Lost on Everest
 movie		G.
@@ -1963,10 +1963,10 @@ movie		Feu: L'énergie
 movie		Persian Series #7
 movie		WWF No Mercy
 drug		RSV-IGIV
-movie		Hemyock
+place		Hemyock
 movie		Kamen Rider Kuuga
 movie		The Barber
-person		Joe Medwick
+movie		Joe Medwick
 drug		Clearasil Maximum Strength Medicated Anti-Acne 10 Vanishing Cream
 person		John Tukey
 place		Dunchurch
@@ -1981,7 +1981,7 @@ drug		Corte
 movie		Dixie Chicks On the Fly
 drug		Nu-Nifed
 movie		Le Harem de Mme Osmane
-movie		Stimate Nasal Spray
+drug		Stimate Nasal Spray
 movie		Fansidar
 drug		Apo-Gain
 person		Carl Ferdinand Cori
@@ -1991,11 +1991,11 @@ movie		Counting Days
 drug		Acet-2
 drug		Di-Sosul Forte 38
 place		Bulgaria
-place		Crillon le Brave
+movie		Crillon le Brave
 drug		Gen-Allerate
 person		Innocent II
 drug		Liquid-Cal
-company		Teens Get Real
+movie		Teens Get Real
 company		Merck & Co Inc.
 movie		Dodd's Pills
 drug		Prop-a-Hist 14
@@ -2003,22 +2003,22 @@ drug		RLH
 movie		Rock Story
 movie		O Fantasma
 drug		Rep-Pred 40
-drug		Abu-d Dardaa
+movie		Abu-d Dardaa
 place		Neuroforte-R
-place		Sam Walton
+person		Sam Walton
 place		Rennes-le-Château
 company		Cbl & Associates Properties Inc.
 movie		T'en as?
 place		Whitby
 place		Cooranbong
 movie		La Fausse suivante
-movie		Twente
+place		Twente
 company		Fleetwood Enterprises Inc.
 company		Sunbeam Corporation
 place		Baarn
 person		John Brown Gordon
 person		Joyeuse
-movie		Eerie Valley Appointment
+person		Eerie Valley Appointment
 company		CompX International Inc.
 place		Wrightington Bar
 drug		Guaifed 142
@@ -2026,20 +2026,20 @@ person		Benjamin Banneker
 movie		On the Road
 movie		Caracas amor a muerte
 company		HALO Industries Inc.
-drug		Melrose
+place		Melrose
 person		Mr. Wong
 drug		Robitussin Pediatric Cough & Cold 121
 place		Allegra
 drug		Idamycin
 movie		Nihon kuroshakai
 place		Burgh Heath
-person		Bernt Holmboe
+place		Bernt Holmboe
 drug		Naprosyn-E 13
-drug		Havant
+place		Havant
 movie		Things You Can Tell Just by Looking at Her
 place		Purmerend
 drug		Dimetapp Cold & Fever Suspension
-person		Barbita
+place		Barbita
 place		Warlingham
 drug		Robitussin-PE 142
 company		Jostens Inc.
@@ -2052,31 +2052,31 @@ person		Public Canings
 place		Pre-Attain
 drug		Transcension
 person		Lars Olof Nathan Söderblom
-drug		Starforce
+place		Starforce
 drug		Piloptic-3
 movie		Une jeune fille à la fenêtre
 movie		Sunkist
-company		Bad Actors
+movie		Bad Actors
 company		Amcol International Corporation
 place		Arbois
 company		Kansas City Southern Industies Inc.
 place		Monica
-drug		Babs
+place		Babs
 person		William Winstanley
 movie		ECW: Anarchy Rulz
 person		William Buckland
 drug		Cortone Acetate
 movie		King's Lynn
 company		Enesco Group Inc.
-place		Iréneé-Jules Bienaymé
+person		Iréneé-Jules Bienaymé
 movie		Palavra e Utopia
 drug		Nupercainal Cream
 person		Pierre de Maupertuis
 person		Gerhard Gentzen
 movie		Cool Women
-person		Amelia Earhart
-person		Roy Rogers
-place		Shanghai Noon
+movie		Amelia Earhart
+movie		Roy Rogers
+movie		Shanghai Noon
 movie		Wanna See Me Pee?
 person		Horace Smith-Dorrien
 place		Friesthorpe
@@ -2086,20 +2086,20 @@ place		Bierton
 company		Best Buy Co.
 movie		Army Men: World War
 movie		Jaaaaam
-person		Erkrath
+place		Erkrath
 person		Anne Heche
 movie		You Made It
-company		Transportadora de Gas del Sur
-person		Anna
+movie		Transportadora de Gas del Sur
+place		Anna
 place		Green Point
 drug		Gen-Cromoglycate
 drug		Liqui-Char
-drug		Serono
+movie		Serono
 drug		Airgas On-line
-person		Curtain Call
+movie		Curtain Call
 movie		La Traviata à Paris
 company		Van Kampen Senior Income Trust
-movie		Hotaru
+place		Hotaru
 person		Marcel Grossmann
 person		John Slidell
 movie		Da Hip Hop Witch
@@ -2107,13 +2107,13 @@ movie		Dalziel and Pascoe: Above the Law
 person		Violence On Violence
 place		Ambonnay
 place		Castleford
-company		Be Cool
+movie		Be Cool
 company		Chris Craft Industries Inc.
 movie		Saint Vincent and The Grenadines
 company		Colonial Properties Trust
 movie		Solomon Lefschetz
 person		Bill Pullman
-place		Issigeac
+movie		Issigeac
 movie		Dinner for Two
 movie		Missing Pieces
 person		They Will Laugh
@@ -2126,7 +2126,7 @@ movie		Blue August
 place		Contamines-Montjoie
 person		William Burnside
 movie		Nine Queens
-place		Omsk
+movie		Omsk
 place		Suckerpunch
 drug		Telebras HOLDRs
 person		Otto Graham
@@ -2136,7 +2136,7 @@ person		Citizen James
 drug		Citrocarbonate
 company		Chelsea Property Group, Inc.
 movie		Shikari
-movie		Ghosthunter
+place		Ghosthunter
 movie		Emmy Noether
 person		Thomas Heatherington
 movie		Louis Arbogast
@@ -2153,11 +2153,11 @@ drug		Actigall
 person		Edward Drinker Cope
 drug		Novahistine DM w/ Decongestant 121
 place		Weesp
-movie		União de Bancos Brasileiros S.A (Unibanco)
+company		União de Bancos Brasileiros S.A (Unibanco)
 movie		The Real Flying Tigers
 place		Evesham
 drug		CoSudafed 120
-movie		Proclus Diadochus
+drug		Proclus Diadochus
 drug		Novo-Digoxin
 place		Manly
 movie		Death of a Saleswoman
@@ -2165,7 +2165,7 @@ place		Garsington
 person		Karl Rahner
 person		Hans Baldung Grien
 place		Pendle Hill
-drug		Gundle Slt Environmental
+movie		Gundle Slt Environmental
 drug		Stulex 44
 movie		Die Zehn Gebote der Kreativität
 person		Robert D. Cabana
@@ -2187,13 +2187,13 @@ movie		Olé!
 drug		Ocu-Sul-30
 person		John Leland
 company		Sierra Pac Pwr Cap I
-person		L'Attrape-rêves
+place		L'Attrape-rêves
 company		BRT Realty Trust.
 drug		Coppertone Sport Ultra Sweatproof 41
 movie		As Terças da Bailarina Gorda
 place		LiebesLuder
 company		Rayonier Inc.
-place		Stopar
+movie		Stopar
 place		Épouse-moi
 place		Ponce
 person		Alan Baker
@@ -2207,14 +2207,14 @@ company		Mettler Toledo International Inc.
 place		Berrima
 drug		Easprin
 movie		Aerines siopes
-movie		Comed Financing
+company		Comed Financing
 movie		Ray Schalk
 person		Niels Henrik Abels
-company		At Any Cost
+movie		At Any Cost
 movie		Lion of Oz
-place		Plastic Castles
+movie		Plastic Castles
 place		Spennymoor
-movie		Aitanic
+drug		Aitanic
 person		Michael Faraday
 place		Amélia
 drug		Activase
@@ -2229,39 +2229,39 @@ company		Consolidated Edison Inc.
 person		Pierre Wantzel
 movie		Andrew Dice Clay: Banned for Life
 place		Brixham
-drug		Megral
-person		Head Cheerleader Dead Cheerleader
+place		Megral
+movie		Head Cheerleader Dead Cheerleader
 movie		Camera Obscura
 movie		East of West
-person		Canvey Island
-movie		Brothers
-movie		Mord im Swingerclub
+place		Canvey Island
+place		Brothers
+person		Mord im Swingerclub
 movie		Urimed
-drug		Lyon
-person		Marco
+place		Lyon
+place		Marco
 drug		Trazon
 place		Charlwood
 company		Highwoods Properties Inc
 place		Levbid
-movie		High Halstow
+place		High Halstow
 movie		Stars Sing The Beatles
 drug		PMS-Dimenhydrinate
 movie		Half-Life: Counter-Strike
 person		Michael A. Baker
 place		Bournemouth
-drug		Carnage Road
+movie		Carnage Road
 drug		Dura-Vent 141
-person		Iivo Härkönen
+movie		Iivo Härkönen
 movie		Bosnia and Herzegovina
 movie		Rosamunde Pilcher - Zeit der Erkenntnis
 drug		DTIC-Dome
 movie		Halfway There
 place		Beers
 drug		Feldene 16
-place		Great Idea
+movie		Great Idea
 person		lehman Brothers Holdings Capital.
 movie		La Pomme, la figue et l'amande
-place		Zir-e poost-e shahr
+movie		Zir-e poost-e shahr
 movie		Protagonisti, i diritti del '900
 movie		The Courage to Love
 drug		THA
@@ -2274,22 +2274,22 @@ movie		Other Girls
 drug		Tylenol Sinus Medication Regular Strength Caplets
 drug		Duosol 44
 company		Talbots Inc.
-drug		Betnesol
+place		Betnesol
 drug		Nu-Naprox 13
 movie		Where the Money Is
 movie		The Opportunists
 person		Hermann Kober
 person		Elizabeth Virginia Wallace Truman
 movie		2000 + 1 stigmes
-drug		Anne 3
-movie		Motorcycle
+movie		Anne 3
+drug		Motorcycle
 person		Marilyn Horne
 place		Puddletown
 person		Francois Tisserand
 person		St. Celestine I
 person		Kevin Costner
 person		Simone Martini
-place		Frank McCourt
+person		Frank McCourt
 person		Frédéric Bazille
 drug		Midahist DH 32
 movie		Autumn in New York
@@ -2299,30 +2299,30 @@ company		Fletcher challenge Limited (FFS.A)
 drug		Desenex Antifungal Liquid
 place		Saint-Gilles-Croix-de-Vie
 drug		S&P Global 100 Index
-drug		Salagen
+place		Salagen
 person		Wilcannia
 person		Ned Kelly
 company		Terra Nitrogen Co. LP
 person		Steve Buscemi
 movie		Die Biester
-company		Van Kampen Bond Fund
+movie		Van Kampen Bond Fund
 movie		Finarû tirminaetôru
-place		Avalanche Run
+movie		Avalanche Run
 drug		DHS Tar Shampoo
 movie		László Kalmár
-drug		Flamenco Shoe
+movie		Flamenco Shoe
 place		Cudal
 company		Safeway Inc.
-drug		BIAVAX II
+person		BIAVAX II
 drug		Ulobetasol
 person		Henry Baker
 movie		Ouvrières du monde
-drug		Polycitra Syrup
+movie		Polycitra Syrup
 drug		Selsun Blue Extra Conditioning Formula
 place		Waltham Cross
 place		Orpington
 movie		Down From the Mountain
-movie		Großstadtträume
+place		Großstadtträume
 place		Castlederg
 drug		Humate-P
 drug		Novo-Tripramine
@@ -2331,11 +2331,11 @@ company		Wpsr Cap Tr I
 movie		In goede aarde: Yesterday
 drug		Novolin ge 30/70 Penfill 10
 movie		Une mère en colère
-movie		Il Fratello minore
+person		Il Fratello minore
 movie		Tuvalu
 drug		Nolvadex
 drug		Rhinocort Turbuhaler
-drug		Victor
+movie		Victor
 person		Henri Lebesgue
 place		Waratah
 movie		From the Top of the Key
@@ -2352,10 +2352,10 @@ place		Sausset-Les-Pins
 drug		METHYPRYLON
 drug		Syllact
 drug		Ginostra
-place		Vilhelm Bjerknes
+person		Vilhelm Bjerknes
 place		Bibury
-drug		Quirindi
-movie		Helicopter
+place		Quirindi
+drug		Helicopter
 company		Markel Corporation.
 movie		Running From Shadows
 person		Richard I
@@ -2365,10 +2365,10 @@ movie		Wang ming zhi tao
 movie		0.12h
 place		Valence
 movie		Yo soy así
-person		Fannie Mae
+movie		Fannie Mae
 drug		Apo-Cephalex 19
-person		Elanora Heights
-drug		Kato
+movie		Elanora Heights
+movie		Kato
 company		Mills Corporation.
 person		M. zkt. vr.
 movie		Clear by Design Medicated Cleansing Pads
@@ -2376,23 +2376,23 @@ company		Washington Real Estate Investment
 drug		Z-Plus
 movie		Delusional
 place		Butibel
-person		G N Watson
+movie		G N Watson
 movie		Das Rote Quadrat
 drug		Myolin
-place		Narromine
+drug		Narromine
 movie		The Near Future
 movie		Hot Legs
-drug		Dum
+place		Dum
 company		FLEETBOSTON FINL CORP
 drug		Dolagesic
 place		Hornsby
-place		Eric Heiden
+person		Eric Heiden
 movie		Mudo mundo
 movie		Der Kleine Lord - Retter in der Not
 person		Kevin P. Chilton
 movie		Die Spur meiner Tochter
 movie		Daria in Is It Fall Yet?
-movie		Gongdong gyeongbi guyeok jsa
+person		Gongdong gyeongbi guyeok jsa
 company		Nuveen New York Performance Plus Municipal Fund
 drug		Benadryl Allergy/Cold 18
 movie		Tom Clancy's Rainbow Six
@@ -2401,17 +2401,17 @@ drug		Talwin-Nx 14
 drug		PreSun Spray Mist 34 47
 company		Downey Financial Corporation.
 place		Irchester
-place		Julianadorp aan Zee
-drug		Felix and Lola
+movie		Julianadorp aan Zee
+movie		Felix and Lola
 movie		Shadow of the Vampire
 place		North Carolina
 movie		Godzilla Vs. Megaguirus: The G Annihilation Strategy
 place		Hawaii
 drug		Aeroseb-HC
 place		Alesse
-drug		Femcet
+movie		Femcet
 movie		Distinctii militare românesti
-movie		Noites
+place		Noites
 movie		The Exhibited
 person		Christopher Marlowe
 movie		Take It to the Limit
@@ -2420,7 +2420,7 @@ company		First Data Corporation.
 place		Warminster
 movie		Diss
 movie		¡Ja me maaten..!
-drug		Katharine Hepburn
+person		Katharine Hepburn
 person		Leonid Vitaliyevich Kantorovich
 place		Oldbury
 movie		Le Secret
@@ -2434,8 +2434,8 @@ drug		Ak-Taine
 drug		Chlor-Tripolon N.D. 21
 drug		Quelidrine Cough 65
 drug		Brevoxyl-4 Cleansing Lotion
-person		Yi jian zhong qing
-person		Barnard Castle
+movie		Yi jian zhong qing
+place		Barnard Castle
 place		Hank Greenberg
 company		Viacom Inc.
 drug		Citro-Mag
@@ -2445,23 +2445,23 @@ drug		Maxeran
 movie		Paris
 drug		Rep-Pred 80
 movie		Forty Years On Coronation Street
-drug		Felbatol
+place		Felbatol
 movie		Satan's School for Girls
 person		Joan Rivers
 drug		Neo-Synephrine Nasal Jelly
 place		Chorley
 place		Gissing
-movie		Strabane
+drug		Strabane
 movie		Open Wide and Say Ahh! 6
 movie		The Chippendales Murder
 person		Mauri Sariola
 place		Borley
-drug		Seconal
+movie		Seconal
 movie		Forever Yours
 person		Bury St. Edmunds
 person		Lawrence Taylor
 movie		The Djinn
-company		Riverside Park
+movie		Riverside Park
 drug		Otocort
 drug		Genoptic Liquifilm
 movie		George Benson: Absolutely Live
@@ -2480,25 +2480,25 @@ company		Flowserve Corporation.
 person		Marriage Prep
 person		Giuseppe Veronese
 movie		Ridge Racer 5
-drug		Ferospace
-person		Bad Bentheim
+movie		Ferospace
+movie		Bad Bentheim
 company		Standex International Corporation.
 drug		Nizoral Shampoo
 drug		Similac 20
-drug		Zyflo
+place		Zyflo
 drug		Chlorgest-HD 26
-movie		Lovenox
+place		Lovenox
 drug		PMS-Acetaminophen with Codeine
 drug		Pregestimil
 movie		Black Panty Chronicals 9
 person		Nicolaus Copernicus
 company		Williams Companies Inc
 place		Forbes
-drug		Grans
-drug		Vamos Chile
+place		Grans
+movie		Vamos Chile
 drug		Prominicol Cough 77
 place		Toowoon Bay
-drug		Niacels
+movie		Niacels
 movie		The Closer You Get
 drug		Chlortox 13
 drug		Co-codaprin
@@ -2512,29 +2512,29 @@ person		John Clarkson
 company		Maxtor Corp.
 person		Alberta Hunter
 person		Napoleon Bonaparte Buford
-drug		Betws-y-Coed
+place		Betws-y-Coed
 movie		Heather Locklear
-company		Olga Cordero
+person		Olga Cordero
 person		Simon Lhuilier
 place		Lowdham
-movie		Mohamed Anwar El Sadat
+person		Mohamed Anwar El Sadat
 movie		Happy Man
 place		Gosford
 person		Sir Henry Hallett Dale
 movie		Mein Leben gehört mir
 drug		Raxar
-drug		Granturismo
+movie		Granturismo
 person		Sir Arthur Harden
 drug		ULTRAbrom PD
 drug		Hemocyte
 place		Winchelsea
 company		Lincoln National Capital III
 person		Norman H. Schwarzkopf
-person		Torab al-ghoraba
+drug		Torab al-ghoraba
 person		Dickinson W. Richards
 drug		Telachlor
 movie		Gauntlet Legends
-movie		Dakhtaran-e Khorshid
+person		Dakhtaran-e Khorshid
 place		Churchdown
 person		Honorius I
 movie		Demasiado amor
@@ -2544,11 +2544,11 @@ drug		L-Caine
 company		Abbey National Plc.
 movie		Les Portes de la gloire
 movie		Innocents
-movie		Fish
+place		Fish
 place		Haybes
 company		Wackenhut Corporation.
 movie		Remseck
-person		Bristol Myers Squibb Co
+company		Bristol Myers Squibb Co
 movie		The Innocent
 drug		Tebrazid
 movie		ìÁÎÄÙÛ ÓÅÒÅÂÒÉÓÔÙÊ
@@ -2557,7 +2557,7 @@ company		Cox Communication Inc.
 drug		Robafen AC Cough 106
 drug		Arcadia
 person		Albert Glyburide
-place		Russische Hochzeit
+movie		Russische Hochzeit
 drug		Sulzer Medica
 drug		Aprodrine 28
 drug		Alphen
@@ -2566,7 +2566,7 @@ person		Johannes Vilhelm Jensen
 place		Walcha
 place		South Tunnel
 place		Terrigal
-drug		Giravolte
+place		Giravolte
 place		Skipton
 company		Entergy Gulf Sts Inc
 movie		Entscheidung seines Lebens
@@ -2574,21 +2574,21 @@ company		Ruby Tuesday Inc.
 place		Dorking
 drug		Phrenilin
 place		Keighley
-person		Chevy Chase
+movie		Chevy Chase
 movie		An Intimate Friendship
 movie		Wonderland ...It Ain't
 drug		PMS-Sennosides 36
 drug		Lupron
 drug		Prorex-50
-drug		Rhyl
+place		Rhyl
 drug		Vioform-Hydrocortisone Ointment
 place		Bradford
 drug		Levsinex Timecaps
-movie		Bone
+place		Bone
 drug		PPA
 drug		Drixoral Nasal Decongestant
 movie		Dr. T & the Women
-person		Dog Food
+movie		Dog Food
 movie		The Visit
 movie		Time to Live
 drug		Mission Improbable
@@ -2618,7 +2618,7 @@ place		Morley
 drug		Regular Strength Tylenol Cough Medication with Decongestant124
 place		Warpath
 drug		Sinutab No Drowsiness Extra Strength Caplets
-person		Yates Frank
+movie		Yates Frank
 company		Un Banco Más de Todos
 movie		Sao Tome and Principe
 movie		La Revancha
@@ -2628,22 +2628,22 @@ company		Nuveen California Performance Municipal Fund
 movie		Ferien in der Heimat
 person		Alexander IV
 movie		Couch Taters
-company		Pajama Party
+movie		Pajama Party
 company		Northrop Grumman Corporation
 place		Bexhill-on-Sea
 drug		Rescon-DM 33
 person		Paul Cézanne
 movie		L'Amour, l'argent, l'amour
-drug		Penthrane
+place		Penthrane
 movie		Confessions of a Head Hunter
 movie		Verboden te zuchten
 movie		Der König tanzt
 drug		Otic-Care
-movie		Aberdyfi
+place		Aberdyfi
 movie		The Journey of Jared Price
 place		Mettlach
-person		Marazion
-movie		Georges Comte de Buffon
+movie		Marazion
+person		Georges Comte de Buffon
 person		Jim Carey
 drug		Largactil Liquid
 place		Tadcaster
@@ -2652,12 +2652,12 @@ company		Ryland Group Inc.
 company		Specialty Laboratories, Inc.
 drug		Lumitene
 company		Standard Commercial Corporation.
-movie		Abdullah Ibn Sailam
+person		Abdullah Ibn Sailam
 person		Ralph Waldo Emerson
 drug		Supeudol 12
 movie		Campos sagrados
 place		Krefeld
-drug		Dristan Long Lasting Nasal Mist
+company		Dristan Long Lasting Nasal Mist
 drug		Entrophen 15 Maximum Strength Tablets
 drug		Pred Forte
 movie		Paterson
@@ -2668,10 +2668,10 @@ movie		Born to Be King
 place		Humbert
 person		Joris Hoefnagel
 movie		Ultimate Fighting Championship
-drug		Dogme 4
+movie		Dogme 4
 person		Alain Connes
 person		Bill Wilson
-drug		Hindsight
+movie		Hindsight
 company		Nuveen New Jersey Investment Quality Municipal Fund
 person		Nicolaus Fuss
 company		Canon, Inc.
@@ -2680,25 +2680,25 @@ place		Linlithgow
 drug		Bio-Cops
 drug		Suppressin DM Plus 126
 drug		CMT
-movie		Apartment Hunting
-place		Heimatgeschichten - O Tannenbaum
+person		Apartment Hunting
+movie		Heimatgeschichten - O Tannenbaum
 drug		Dycill
 movie		An American Tail: The Treasure of Manhattan Island
 drug		Sectral
 place		Biberach
 drug		Pertussin CS Children's Strength
 person		Eric F. Wieschaus
-drug		Orudis-E
-company		Elsevier N V
+place		Orudis-E
+person		Elsevier N V
 company		Dollar Thrifty Automotive Group Inc.
 drug		Celestoderm-V
 person		Schack August Steenberg Krogh Krogh
-person		Tom Hanks
+movie		Tom Hanks
 company		Boyd Gaming Corp
 person		Ernie Lombardi
 place		Welshpool
-movie		Cecilia
-movie		Thanatos
+drug		Cecilia
+place		Thanatos
 movie		Our Years
 company		General Mtrs Cap Tr D
 movie		At the Height of Summer
@@ -2711,7 +2711,7 @@ place		Gunning
 company		Dyerburg Corporation.
 person		John Dewey
 person		Branwell Brontë
-movie		Restless
+place		Restless
 drug		Catastrophe
 company		Cornerstone Propane Partnership L.P.
 drug		APD
@@ -2727,7 +2727,7 @@ place		Roussou,
 place		Allogny
 place		Wisbech
 drug		Nupercainal Ointment
-drug		Chooz 18
+movie		Chooz 18
 movie		La Vache et le président
 drug		Night-Time Effervescent Cold 17
 company		Centex Corporation
@@ -2757,17 +2757,17 @@ movie		Mom's Got a Date with a Vampire
 movie		Chameleon 3: Dark Angel
 drug		Catrix Lip Saver 41
 movie		Caverject
-person		Penzance
+place		Penzance
 movie		Dark Knight
 movie		I Spike
 movie		India
-person		Oliver O. Howard
-person		Ludwig Quidde
+movie		Oliver O. Howard
+movie		Ludwig Quidde
 movie		Sin's Kitchen
 movie		Trzy szalone zera
 place		Epoch
-movie		Nancy
-person		Alfred von Tirpitz
+place		Nancy
+movie		Alfred von Tirpitz
 drug		Reguloid Natural Sugar Free
 place		Eyemouth
 person		Paul Newman
@@ -2781,7 +2781,7 @@ person		Nathan Jacobson
 drug		Dermoxyl 20 Gel
 movie		Rothenburg ob der Tauber
 drug		Bain de Soleil Long Lasting Sport Sunblock 31
-place		La Grave
+movie		La Grave
 drug		Chlor-Trimeton Allergy-D 12 Hour 15
 drug		Vasotec
 movie		Cizinci v case
@@ -2794,11 +2794,11 @@ movie		Prison Life
 movie		Euro Angels 25: Budapest Booty Fest
 drug		Co-Complex DM Caplets 124
 movie		Kingdom of Poet O
-person		Lambert Quetelet
+movie		Lambert Quetelet
 person		Stanley Kubrick
 drug		Introlite
 drug		Novo-Veramil
-person		Menerbes
+movie		Menerbes
 movie		Me Jane
 movie		Kaliber Deluxe
 place		Schwelm
@@ -2812,7 +2812,7 @@ drug		Riopan Plus Extra Strength 24
 movie		The Bread, My Sweet
 movie		Pop Beat Killers
 movie		That's Life
-company		UNOCAL CORP
+drug		UNOCAL CORP
 company		Home Depot Inc.
 place		Münster
 movie		VH1 Divas 2000: A Tribute to Diana Ross
@@ -2821,22 +2821,22 @@ place		Strasbourg
 company		Developers Diversified Realty Corporation.
 drug		Aquasol A
 movie		Neil Young: Silver and Gold
-movie		Poppuguruupu Koroshiya
+person		Poppuguruupu Koroshiya
 movie		I Prefer the Sound of the Sea
 company		Rollins Truck Leasing Corporation.
 person		Abraham Robinson
 company		CryoLife, Inc.
-drug		Zanosar
+place		Zanosar
 company		Enron Corporation
 drug		Macrobid
-movie		Terra Sonâmbula
+place		Terra Sonâmbula
 drug		Aspirtab
 place		Schrobenhausen
 movie		A Question of Faith
-drug		Trixie
+movie		Trixie
 movie		Muir of Ord
 company		iStar Financial Inc.
-person		Le Cercle de Babel
+movie		Le Cercle de Babel
 company		Shaw Communications Inc.
 drug		Sciography
 place		Luz
@@ -2852,8 +2852,8 @@ place		Osborne Reynolds
 person		Elisabeth Kuber Ross
 movie		The Summer Intern
 movie		Fist Power
-movie		August Blanche
-movie		Cleopatra VII
+person		August Blanche
+person		Cleopatra VII
 movie		Xian's Finest
 drug		Veetids 13
 place		Vouziers
